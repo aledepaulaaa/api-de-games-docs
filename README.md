@@ -9,7 +9,7 @@ Esse endpoint é responsável por retornar a listagem de todos os games cadastra
 <h3>Parâmetros</h3>
 Nenhum
 <hr>
-<h3>Respostas:</h3>
+<h3>Respostas: ✍️</h3>
 
   <li><strong>Ok! 200:  Caso essa resposta aconteça você vai receber a <em><b>listagem de todos os games</b></em></strong>
     <p>Exemplo de resposta:</p>
@@ -72,7 +72,7 @@ Esse endpoint é responsável por retornar o processo de login.
 
 
 <hr>
-<h3>Respostas:</h3>
+<h3>Respostas:✍️</h3>
 <li><strong>OK! 200: Caso essa resposta aconteça você vai receber o token JWT para conseguir acessar endpoints protegidos na API.</strong>
   <p>Exemplo de resposta:</p>
   </li>
